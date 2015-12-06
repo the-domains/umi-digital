@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Umi Digital]]></title>
         <description><![CDATA[Umi Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/umi-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 20:20:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 20:21:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/umi-digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Umi Digital.]]></title>
             <description><![CDATA[<article><h1>Welcome to Umi Digital.</h1><p>We are a blah blah yadda.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c8f8df3-4049-4608-8f7e-ee82b656bdc0.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-umi-digital/index.html</link>
+            <link>https://thegrid.ai/umi-digital/welcome-to-umi-digital/index.html</link>
             <guid isPermaLink="false">49b73b9b-7761-46ee-b993-20c053e4a37f</guid>
-            <pubDate>Sun, 06 Dec 2015 20:20:14 GMT</pubDate>
+            <pubDate>Sun, 06 Dec 2015 20:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
