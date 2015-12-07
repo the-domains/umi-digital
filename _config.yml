@@ -1,7 +1,7 @@
 name: Umi Digital
 favicon: null
-layout_spectrum: 0.87841
-typography_spectrum: 0.41415
+layout_spectrum: 0.32972
+typography_spectrum: 0.72801
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#35b5e6'
-    - '#00ffff'
-    - '#0080ff'
-    - '#0000ff'
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.375
-  rhythmicContrast: 0.5
+    - '#14162d'
+    - '#dbcab6'
+    - '#81524a'
+    - '#998779'
+    - '#caa68a'
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
