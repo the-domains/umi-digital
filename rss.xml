@@ -4,7 +4,7 @@
         <description><![CDATA[The best website company for hotels]]></description>
         <link>https://thegrid.ai/umi-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 11:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 11:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/umi-digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Umi Digital.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/umi-digital/welcome-to-umi-digital/index.html</link>
             <guid isPermaLink="false">49b73b9b-7761-46ee-b993-20c053e4a37f</guid>
             <pubDate>Mon, 07 Dec 2015 11:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><p>Here is a new</p></article>]]></description>
+            <link>https://thegrid.ai/umi-digital/title/index.html</link>
+            <guid isPermaLink="false">429c5dbd-c39e-475f-bb21-911b3b4be2c3</guid>
+            <pubDate>Mon, 07 Dec 2015 11:58:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
