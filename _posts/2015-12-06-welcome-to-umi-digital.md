@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T17:17:21.625Z'
-dateModified: '2015-12-21T17:17:11.967Z'
+datePublished: '2015-12-21T17:22:16.261Z'
+dateModified: '2015-12-21T17:22:06.930Z'
 title: Welcome to Umi Digital.
 author: []
 sourcePath: _posts/2015-12-06-welcome-to-umi-digital.md
