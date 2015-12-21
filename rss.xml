@@ -4,21 +4,21 @@
         <description><![CDATA[The best website company for hotels]]></description>
         <link>https://thegrid.ai/umi-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 17:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/umi-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Umi Digital.]]></title>
+            <description><![CDATA[<article><h1>Welcome to Umi Digital.</h1><p>Hello This is a post with a scary red head. We are a blah blah yadda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7bb09f04886570d570a0ceaf656eb635fcdfbce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/umi-digital/welcome-to-umi-digital/index.html</link>
+            <guid isPermaLink="false">49b73b9b-7761-46ee-b993-20c053e4a37f</guid>
+            <pubDate>Mon, 21 Dec 2015 17:22:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Inspired" by Medium... just a little!]]></title>
             <description><![CDATA[<article><h1>"Inspired" by Medium... just a little!</h1><p>Let's chuck a photo in here to see what happens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04a7042d6ae9b227128eb4bf5e52ef76608144e7.jpg"></article>]]></description>
             <link>https://thegrid.ai/umi-digital/inspired-by-medium-just-a-little/index.html</link>
             <guid isPermaLink="false">b1bd447c-716e-4c89-aabd-ada532d78cd2</guid>
             <pubDate>Mon, 07 Dec 2015 12:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Umi Digital.]]></title>
-            <description><![CDATA[<article><h1>Welcome to Umi Digital.</h1><p>Hello This is a post with a scary red head. We are a blah blah yadda.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd84aaa1-fe17-4d15-bd16-ebfcc7d14406.jpg"></article>]]></description>
-            <link>https://thegrid.ai/umi-digital/welcome-to-umi-digital/index.html</link>
-            <guid isPermaLink="false">49b73b9b-7761-46ee-b993-20c053e4a37f</guid>
-            <pubDate>Mon, 21 Dec 2015 17:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
