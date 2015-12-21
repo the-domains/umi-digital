@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T17:14:48.914Z'
-dateModified: '2015-12-21T17:13:57.895Z'
+datePublished: '2015-12-21T17:17:21.625Z'
+dateModified: '2015-12-21T17:17:11.967Z'
 title: Welcome to Umi Digital.
 author: []
 sourcePath: _posts/2015-12-06-welcome-to-umi-digital.md
@@ -25,4 +25,4 @@ _type: Article
 # Welcome to Umi Digital.
 
 Hello This is a post with a scary red head. We are a blah blah yadda.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86fba9bf30e58a7f4a327b640c7e5025138c866a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd84aaa1-fe17-4d15-bd16-ebfcc7d14406.jpg)
